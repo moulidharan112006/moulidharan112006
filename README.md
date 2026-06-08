@@ -27,10 +27,8 @@
 ## 🧠 Core Stack
 
 ⚡ Java  
-⚡ JavaScript  
-⚡ TypeScript (Learning)  
+⚡ JavaScript
 ⚡ HTML / CSS  
-⚡ Python  
 ⚡ React (Learning)  
 ⚡ Node.js (Learning)  
 
@@ -39,18 +37,8 @@
 ## 💻 Projects
 
 - 🛒 E-Commerce Website — Modern shopping UI experience  
-- 🌍 Fix My Area — Community issue reporting platform  
+- 🌍 Fix My Area — Civic issue reporting platform  
 - 📊 Customer Behaviour Analysis — Data-driven insights project  
 - ☕ Daily Java Practice — DSA + Core Java programs  
 
 ---
-
-## 📊 Domain Proficiency
-
-```text
-JavaScript  ██████████████░░░ 48%
-TypeScript  ██████████░░░░░░ 26%
-HTML        ██████░░░░░░░░░░ 10%
-CSS         ████░░░░░░░░░░░░ 6%
-Java        ███░░░░░░░░░░░░░ 4%
-Python      ██░░░░░░░░░░░░░░ 2%
