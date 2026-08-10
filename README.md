@@ -27,8 +27,8 @@
 ## 🧠 Core Stack
 
 ⚡ Java  
-⚡ JavaScript
 ⚡ HTML / CSS  
+⚡ JavaScript
 ⚡ React (Learning)
 
 ---
