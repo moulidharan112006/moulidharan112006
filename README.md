@@ -29,8 +29,7 @@
 ⚡ Java  
 ⚡ JavaScript
 ⚡ HTML / CSS  
-⚡ React (Learning)  
-⚡ Node.js (Learning)  
+⚡ React (Learning)
 
 ---
 
